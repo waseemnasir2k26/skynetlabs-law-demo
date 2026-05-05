@@ -1,0 +1,405 @@
+{
+  "brand": {
+    "name": "SkynetLabs Law Demo",
+    "tagline": "Chicago's trial firm. Verdicts that move markets."
+  },
+  "niche": "law",
+  "niche_label": "Law",
+  "location": {
+    "city": "Chicago",
+    "region": "IL",
+    "country": "US"
+  },
+  "owner": {
+    "name": "Waseem Nasir",
+    "agency": "SkynetLabs",
+    "fiverr_url": "https://www.fiverr.com/agencies/skynetjoellc",
+    "hub_url": "https://skynetjoe.com",
+    "contact_email": "waseembali2k26@gmail.com",
+    "contact_phone": "+1-312-555-0247"
+  },
+  "palette": {
+    "bg": "#F5F1E8",
+    "surface": "#FFFFFF",
+    "ink": "#1F1F1F",
+    "accent": "#B8893E",
+    "detail": "#0A2540"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Geist",
+    "mono": null
+  },
+  "dark_mode": false,
+  "design": {
+    "rhythm": {
+      "services": "generous",
+      "testimonial": "normal",
+      "gallery": "normal"
+    }
+  },
+  "hero": {
+    "kind": "r3f",
+    "h1": "Chicago's *trial* firm. Verdicts that move markets.",
+    "sub": "$5B+ recovered for Chicago families since 1998. Boutique commercial litigation, white-collar, and trade-secret matters.",
+    "photo_url": "https://images.unsplash.com/photo-1589994965851-a8f479c573a9?w=1920&auto=format&fit=crop&q=80",
+    "photo_credit": "Photo by Tingey Injury Law Firm on Unsplash",
+    "overlay": "rgba(245,241,232,0.0)",
+    "focal_point": "center"
+  },
+  "hero_3d": {
+    "r3f_scene": "r3f-marble-column",
+    "poster_url": "https://images.unsplash.com/photo-1589994965851-a8f479c573a9?w=1920&auto=format&fit=crop&q=80",
+    "material": {
+      "kind": "physical",
+      "marble_normal": true,
+      "clearcoat": 0.6
+    },
+    "lighting": {
+      "key_kelvin": 5500,
+      "volumetric_god_rays": true
+    },
+    "dolly": {
+      "duration_s": 60,
+      "amplitude_y": 0.18,
+      "ease": "linear"
+    },
+    "reduce_motion_fallback": "static-frame-midpoint"
+  },
+  "copy": {
+    "h1": "Chicago's *trial* firm. Verdicts that move markets.",
+    "sub": "$5B+ recovered for Chicago families since 1998. Boutique commercial litigation, white-collar, and trade-secret matters.",
+    "primary_cta": "Free Case Evaluation",
+    "primary_cta_href": "#contact",
+    "secondary_cta": "Watch Our Story",
+    "secondary_cta_href": "#case-study",
+    "sticky_mobile_bar": "Confidential — (312) 555-0247"
+  },
+  "verdict_ribbon": [
+    {
+      "value": "$5B+",
+      "label": "Recovered"
+    },
+    {
+      "value": "75",
+      "label": "Verdicts ≥ $1M"
+    },
+    {
+      "value": "#1",
+      "label": "Chicago Lawyer Report 2024-25"
+    }
+  ],
+  "press_logos": [
+    "Forbes",
+    "Chicago Magazine",
+    "Tribune",
+    "ABC",
+    "NBC",
+    "Bloomberg"
+  ],
+  "trust_strip": [
+    "Illinois + 7th Circuit Bar Admissions",
+    "Chambers USA Bands",
+    "Best Lawyers · Super Lawyers",
+    "AV Preeminent (Martindale)",
+    "AmLaw Alumni · Reported Decisions"
+  ],
+  "service_area": {
+    "primary_city": "Chicago, IL",
+    "service_area_cities": [
+      "Loop, IL",
+      "River North, IL",
+      "Gold Coast, IL",
+      "Lincoln Park, IL",
+      "Old Town, IL",
+      "West Loop, IL",
+      "Streeterville, IL",
+      "Lakeview, IL",
+      "Bucktown, IL",
+      "Wicker Park, IL",
+      "Lincoln Square, IL",
+      "Logan Square, IL",
+      "Hyde Park, IL",
+      "Evanston, IL",
+      "Wilmette, IL",
+      "Winnetka, IL",
+      "Glencoe, IL",
+      "Lake Forest, IL",
+      "Highland Park, IL",
+      "Northbrook, IL",
+      "Deerfield, IL",
+      "Naperville, IL",
+      "Hinsdale, IL",
+      "Oak Park, IL",
+      "River Forest, IL",
+      "Schaumburg, IL",
+      "Rosemont, IL",
+      "Skokie, IL",
+      "Oak Brook, IL",
+      "Glenview, IL"
+    ]
+  },
+  "services": [
+    {
+      "slug": "commercial-litigation",
+      "title": "Commercial Litigation",
+      "blurb": "Bet-the-company contract disputes, business torts, and complex commercial disagreements tried to verdict when settlement is not the right answer. Our partners have first-chaired federal and state cases that have generated reported decisions cited by other courts. Trial is a craft we take seriously and exercise often."
+    },
+    {
+      "slug": "white-collar",
+      "title": "White-Collar + Internal Investigations",
+      "blurb": "Federal investigations, internal corporate inquiries, and grand-jury matters. Two of our partners are former Assistant U.S. Attorneys (Northern District of Illinois) and bring trained insight to investigations from the moment a subpoena lands. Discretion is structural, not advertised."
+    },
+    {
+      "slug": "trade-secret",
+      "title": "Trade Secret + Non-Compete",
+      "blurb": "Defend Trade Secrets Act, Illinois Trade Secrets Act, and contractual non-compete enforcement and defense. We have obtained TROs and preliminary injunctions in matters with eight-figure exposure and have defended executives leaving for competitors against their former employers' overreach. Both sides of the table."
+    },
+    {
+      "slug": "securities",
+      "title": "Securities + Shareholder Disputes",
+      "blurb": "10b-5 actions, derivative litigation, fiduciary-duty claims, and shareholder oppression matters. Our practice has handled both plaintiff and defense work and brings the institutional perspective necessary to litigate complex financial cases without losing the jury."
+    },
+    {
+      "slug": "class-action",
+      "title": "Class Action Defense",
+      "blurb": "Defending corporations against putative class actions in consumer finance, employment, and product liability. We litigate at every stage — from removal and motion to dismiss through certification opposition and, when necessary, trial. Settlement is often the right outcome but it is not the only outcome."
+    },
+    {
+      "slug": "appellate",
+      "title": "Appellate Advocacy",
+      "blurb": "Briefing and oral argument before the 7th Circuit, Illinois Supreme Court, and Illinois Appellate Court. Two partners hold appellate clerkships and we are regularly retained to handle appeals from cases originally tried by other firms — including matters where we are confident the trial result deserves to stand or to be challenged on appeal."
+    }
+  ],
+  "verdict_gallery": [
+    {
+      "headline": "Industrial supply contract dispute",
+      "amount": "$44M",
+      "summary": "Verdict for plaintiff after 4-week federal jury trial.",
+      "year": "2024"
+    },
+    {
+      "headline": "Trade-secret injunction defense",
+      "amount": "$0",
+      "summary": "Eight-figure exposure denied at TRO; case settled <10% of demand.",
+      "year": "2024"
+    },
+    {
+      "headline": "Securities class action defense",
+      "amount": "Dismissed",
+      "summary": "Motion to dismiss granted with prejudice. No settlement.",
+      "year": "2023"
+    },
+    {
+      "headline": "Shareholder oppression buyout",
+      "amount": "$22M",
+      "summary": "Forced buyout at fair value after 18-month litigation.",
+      "year": "2023"
+    },
+    {
+      "headline": "Federal grand-jury inquiry",
+      "amount": "No charges",
+      "summary": "Resolved pre-indictment via internal investigation.",
+      "year": "2023"
+    },
+    {
+      "headline": "Non-compete defense for executive",
+      "amount": "Denied",
+      "summary": "Preliminary injunction defeated; executive kept role + equity.",
+      "year": "2022"
+    },
+    {
+      "headline": "Commercial breach trial",
+      "amount": "$15M",
+      "summary": "Defense verdict reduced demand by 88% at jury trial.",
+      "year": "2022"
+    },
+    {
+      "headline": "DTSA injunction enforcement",
+      "amount": "TRO won",
+      "summary": "Emergency relief obtained in 72 hours.",
+      "year": "2022"
+    },
+    {
+      "headline": "Appellate reversal — 7th Circuit",
+      "amount": "Reversed",
+      "summary": "$8M judgment reversed on appeal; remanded for new trial.",
+      "year": "2021"
+    },
+    {
+      "headline": "Fiduciary-duty derivative suit",
+      "amount": "$11M",
+      "summary": "Plaintiff recovery for minority shareholders.",
+      "year": "2021"
+    },
+    {
+      "headline": "Class action consumer finance",
+      "amount": "Defeated cert",
+      "summary": "Class certification denied — case dismissed.",
+      "year": "2021"
+    },
+    {
+      "headline": "Internal investigation — public co.",
+      "amount": "Quiet resolution",
+      "summary": "DOJ inquiry closed pre-indictment within budget.",
+      "year": "2020"
+    }
+  ],
+  "process": [
+    {
+      "n": 1,
+      "title": "Confidential consult",
+      "blurb": "Initial conversation under attorney-client privilege. We screen for conflicts before any substantive discussion of facts."
+    },
+    {
+      "n": 2,
+      "title": "Engagement + scope",
+      "blurb": "Written engagement letter with fee structure (hourly, fixed, blended, or contingency where appropriate) and a defined matter scope."
+    },
+    {
+      "n": 3,
+      "title": "Litigation strategy",
+      "blurb": "Memo on legal theory, factual investigation plan, and budget. Reviewed with you before any pleading is filed."
+    },
+    {
+      "n": 4,
+      "title": "Trial-ready posture",
+      "blurb": "Every case is positioned for trial from the outset — settlement leverage flows from credible willingness and ability to try the case."
+    }
+  ],
+  "case_study": {
+    "title": "Trade-Secret Injunction — Eight-Figure Exposure Defended",
+    "photo_url": "https://images.unsplash.com/photo-1505664194779-8beaceb93744?w=1920&auto=format&fit=crop&q=80",
+    "quote": "Former employer filed for an injunction the day my client started his new role. The team had a response brief and supporting record on file within 72 hours. The injunction was denied, the underlying claim settled at a fraction of the original demand, and my client kept his job and his equity.",
+    "stats": [
+      {
+        "value": "72 hr",
+        "label": "Emergency response brief"
+      },
+      {
+        "value": "Denied",
+        "label": "Injunction outcome"
+      },
+      {
+        "value": "<10%",
+        "label": "Final settlement vs initial demand"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "We were sued for breach of a master supply agreement with $40M in claimed damages. The team prepared the case for trial from the first week — depositions were tighter, motions sharper, and when the other side blinked at the pretrial conference, we settled on terms that were 12% of the demand. Trial readiness is the leverage.",
+      "name": "GC of mid-cap industrial",
+      "role": "General Counsel",
+      "city": "Chicago, IL"
+    },
+    {
+      "quote": "Pre-acquisition, the seller hit us with a deal-blocking injunction tied to an alleged trade-secret violation. The team got the TRO lifted in 48 hours and the deal closed on schedule. Calling them was the single best decision we made that quarter.",
+      "name": "PE Principal",
+      "role": "Private equity firm",
+      "city": "Lincoln Park, IL"
+    },
+    {
+      "quote": "DOJ inquiry landed at my company unexpectedly. The team handled the full internal investigation, managed witness preparation, and resolved the matter pre-indictment with no charges filed. Quietly, professionally, and within budget. That outcome does not happen by accident.",
+      "name": "Founder-Defendant",
+      "role": "Public-company founder",
+      "city": "Winnetka, IL"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do you take cases on contingency?",
+      "a": "Contingency is available for select plaintiff matters where the economics align (commercial damages cases, fiduciary-duty buyouts, certain securities actions). Hourly is the default for litigation matters. Fixed-fee phases are increasingly common for discrete portions of a case (motion practice, deposition rounds). Blended structures are negotiated case-by-case. The fee structure is part of the engagement letter — no surprises."
+    },
+    {
+      "q": "What is the statute of limitations on my matter?",
+      "a": "It depends on the cause of action. Illinois breach-of-contract claims generally run 10 years for written contracts and 5 years for oral. Tort claims typically run 2 years. Federal Defend Trade Secrets Act claims run 3 years. Consult with a partner before assuming a deadline — discovery rules and tolling can shift the calendar."
+    },
+    {
+      "q": "Is the initial consultation free and confidential?",
+      "a": "Yes. The first 30-minute conversation is no-charge and runs under attorney-client privilege from the first sentence. We screen for conflicts before any substantive discussion of facts. After consultation we provide a written assessment and a fee proposal — you decide whether to engage."
+    },
+    {
+      "q": "What does a typical settlement timeline look like?",
+      "a": "Highly matter-dependent. Pre-litigation disputes often resolve in weeks to months. Filed cases run 12 to 24 months to summary judgment, longer to trial. Internal investigations typically span 90 to 180 days. We provide a written timeline at engagement and update it monthly."
+    },
+    {
+      "q": "What does a boutique offer over an AmLaw 100 firm?",
+      "a": "Three things: senior-attorney attention on every matter, fee structures unburdened by AmLaw overhead, and the ability to staff a case the way the matter actually requires rather than how the firm's leverage model dictates. The trade-off is that we do not handle every type of matter — and we will tell you when a different firm is the right choice."
+    },
+    {
+      "q": "Will my matter be staffed by partners?",
+      "a": "Yes. Partner attention is the model. Associates support partners; partners do not delegate primary case strategy to associates. This is the structural reason boutique fees are competitive with AmLaw despite higher hourly rates — fewer hours billed, better hours billed."
+    },
+    {
+      "q": "Confidentiality posture for sensitive matters?",
+      "a": "Substantive. Communications routed through partner-supervised channels, document handling under privilege protocols, and limited associate access on flagged matters. We have handled multiple disputes that did not become public; we are comfortable with that as the goal."
+    },
+    {
+      "q": "How do you handle conflicts of interest?",
+      "a": "Conflict checks are run before any substantive engagement and we maintain conflict-screening procedures consistent with ABA Model Rules. Where laterals or new matters create potential issues, we either decline the engagement or seek written informed consent. We do not rely on firm-wide screens for litigation conflicts."
+    }
+  ],
+  "lead_magnet": {
+    "title": "When to Bring in Boutique Litigation Counsel",
+    "subtitle": "Six signs your AmLaw firm is not the right fit for the matter you are facing. 7 pages.",
+    "cta": "Read the brief →"
+  },
+  "photos": {
+    "hero": "https://images.unsplash.com/photo-1589994965851-a8f479c573a9?w=1920&auto=format&fit=crop&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505664194779-8beaceb93744?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1568667256549-094345857637?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1577962917302-cd874c4e31d2?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=1280&auto=format&fit=crop&q=80"
+    ]
+  },
+  "competitors": [
+    "https://www.rblaw.net",
+    "https://www.salvilaw.com",
+    "https://www.powerrogers.com",
+    "https://www.corboydemetrio.com",
+    "https://www.duncanlawgroup.com"
+  ],
+  "anti_patterns": [
+    "Scales-of-justice icon graphics",
+    "Stock gavel-on-book hero photo",
+    "Trajan/Cinzel-class classical serif display",
+    "Phone-only hero CTA",
+    "Sans-only typography"
+  ],
+  "modules": {
+    "booking_calendar": false,
+    "service_area_map": true,
+    "photo_gallery": true,
+    "faq": true,
+    "lead_magnet": true,
+    "sticky_mobile_bar": false
+  },
+  "contact": {
+    "form_endpoint": "https://api.web3forms.com/submit",
+    "calendly_url": "https://calendly.com/skynetlabs-demo/15min"
+  },
+  "seo": {
+    "title": "Chicago Trial Firm | Commercial Litigation Boutique | SkynetLabs",
+    "description": "Chicago's trial firm — $5B+ recovered. Boutique commercial litigation, white-collar, and trade-secret matters. Chambers USA, AmLaw alumni, partner-led representation.",
+    "keywords": [
+      "chicago trial firm",
+      "commercial litigation chicago",
+      "boutique law firm chicago",
+      "trade secret attorney illinois",
+      "white collar lawyer chicago"
+    ],
+    "noindex": true
+  },
+  "demo_disclosure": {
+    "enabled": true,
+    "fiverr_cta_url": "https://www.fiverr.com/agencies/skynetjoellc?utm_source=demo&utm_campaign=law",
+    "contact_cta_url": "https://skynetjoe.com/contact?utm_source=demo&utm_campaign=law",
+    "portfolio_url": "https://skynetjoe.com/portfolio"
+  }
+}
